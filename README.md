@@ -13,9 +13,12 @@
    - Operators
    - Type Conversion
 2. **Strings**
+   - String Concatenation
+   - f-string
+   - String Formatting
    - Indexing & Slicing
    - String Methods
-   - f-Strings
+
 ---
 
 ## 🗓 My Plan
