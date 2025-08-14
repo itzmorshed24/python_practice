@@ -18,6 +18,12 @@
    - String Formatting
    - Indexing & Slicing
    - String Methods
+3. **List**
+   - Syntax
+   - Accessing List Items
+   - List Slicing
+   - List Methods
+   - Excersice
 
 ---
 
