@@ -24,6 +24,14 @@
    - List Slicing
    - List Methods
    - Excersice
+3. **Tuple**
+   - Syntax
+   - Accessing tuple Items
+   - tuple Slicing
+   - tuple Methods
+   - Excersice
+
+
 
 ---
 
