@@ -38,6 +38,12 @@
    - Dictionary Methods
    - Excersice
 
+6. **Sets**
+   - Syntax
+   - Adding & Updating
+   - Remove items
+   - Sets Methods
+   - Excersice
 
 
 ---
