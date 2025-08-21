@@ -24,11 +24,18 @@
    - List Slicing
    - List Methods
    - Excersice
-3. **Tuple**
+4. **Tuple**
    - Syntax
    - Accessing tuple Items
    - tuple Slicing
    - tuple Methods
+   - Excersice
+5. **Dictionary**
+   - Syntax
+   - Accessing dictionary Items
+   - Adding & Updating
+   - Remove items
+   - Dictionary Methods
    - Excersice
 
 
